@@ -1,0 +1,2 @@
+# CellPhoneData
+At the risk of looking extremely cheap/thrifty, I decided to downgrade from an Unlimited plan to 500 minutes/month, to save a WHOPPING DOLLAR per month.  After thinking about this I requested a CSV file of my usage data so I could evaluate and see if I was being too skimpy.  Indeed I was!  This simple Excel file shows you how I was able to use everyday tools and data to make a wiser decision.
